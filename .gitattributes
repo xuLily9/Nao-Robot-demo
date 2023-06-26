@@ -1,0 +1,3 @@
+* linguist-vendored
+*.pml linguist-vendored=false
+*.xml linguist-vendored=false
